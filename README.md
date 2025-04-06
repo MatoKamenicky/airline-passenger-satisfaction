@@ -22,6 +22,11 @@ This project uses a Multi-Layer Perceptron (MLP) neural network to predict airli
 - matplotlib, seaborn
 - scikit-learn
 
+## 📈 Results
+
+- **Achieved accuracy**: ~96,5%
+- **Achieved F1 score**: ~95,9%
+
 ## 🚀 How to Run
 
 You can open and run the notebook in Google Colab:
@@ -34,8 +39,3 @@ Or clone this repository and run locally:
 git clone https://github.com/MatoKamenicky/airline-passenger-satisfaction.git
 cd airline-passenger-satisfaction
 jupyter notebook
-
-## 📈 Results
-
-- **Achieved accuracy**: ~96,5%
-- **Achieved F1 score**: ~95,9%
