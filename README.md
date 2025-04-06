@@ -26,13 +26,13 @@ This project uses a Multi-Layer Perceptron (MLP) neural network to predict airli
 
 You can open and run the notebook in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/your-notebook-link-here)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatoKamenicky/airline-passenger-satisfaction/blob/main/Airline_Satisfaction_MLP.ipynb)
 
 Or clone this repository and run locally:
 
 ```bash
-git clone https://github.com/your-username/airline-satisfaction-mlp.git
-cd airline-satisfaction-mlp
+git clone https://github.com/MatoKamenicky/airline-passenger-satisfaction.git
+cd airline-passenger-satisfaction
 jupyter notebook
 
 ## 📈 Results
