@@ -34,6 +34,7 @@ Or clone this repository and run locally:
 git clone https://github.com/MatoKamenicky/airline-passenger-satisfaction.git
 cd airline-passenger-satisfaction
 jupyter notebook
+```
 
 ## 📈 Results
 
